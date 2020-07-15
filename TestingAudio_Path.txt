@@ -31,7 +31,6 @@ DebomitraDas_6.wav
 DhirendraYadav_6.wav
 DivyanshKul_6.wav
 Eknath_6.wav
-filenames.txt
 Govinda_6.wav
 GurnoorKaur_6.wav
 IrfanKhan_6.wav
